@@ -1,0 +1,37 @@
+/* Employee details styling */
+.employee-details {
+    background-color: #f0f0f0;
+    border: 1px solid #ccc;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .employee-details h2 {
+    color: #333;
+  }
+  
+  .employee-details p {
+    margin: 5px 0;
+  }
+  
+  .employee-details button {
+    margin-right: 5px;
+    cursor: pointer;
+  }
+  
+  /* Single employee styling */
+  .single-emp {
+    background-color: #d0e5f2;
+    border: 1px solid #3498db;
+    padding: 10px;
+    margin: 10px 0;
+  }
+  
+  .single-emp h2 {
+    color: #3498db;
+  }
+  
+  .single-emp p {
+    margin: 5px 0;
+  }
+  
